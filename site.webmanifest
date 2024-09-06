@@ -1,0 +1,10 @@
+{
+    "name":"Shopping Cart App",
+    "short_name":"Cart App",
+    "icons":[
+        {"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}
+    ],
+    "theme_color":"#FFECC7",
+    "background_color":"#eff3f4",
+    "display":"standalone"
+}
